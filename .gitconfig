@@ -1,0 +1,9 @@
+[user]
+	name = BongHead420
+	email = 31710671+bonghead420@users.noreply.github.com
+[color]
+        ui = true
+[merge]
+        tool = opendiff
+[diff]
+        tool = opendiff
